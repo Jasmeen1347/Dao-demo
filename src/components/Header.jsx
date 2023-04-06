@@ -45,6 +45,7 @@ const Header = () => {
             </Link>
 
             <div className="flex flex-row justify-center items-center space-x-5">
+              <p>Please conncet with Goerli Testnet to load data</p>
               {darken ? (
                 <MdLightMode
                   className="cursor-pointer"
